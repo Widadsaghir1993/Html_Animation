@@ -1,0 +1,3 @@
+partner: " Pinko, FABI, Twinset, alice street, karina vessna"
+
+news : Forbes and Huffpost
